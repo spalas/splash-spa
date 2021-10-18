@@ -13,8 +13,14 @@ const Services = () => {
 
 
     return (
-        <div className="container">
+        <div id="services" className="container">
+            <div className='f4-font'><h1>Our services</h1>
+                <hr />
+                <h2>Experience the art of caring</h2>
+            </div>
+
             <div className="service-container">
+
 
 
 

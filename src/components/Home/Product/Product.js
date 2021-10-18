@@ -9,8 +9,9 @@ import product6 from '../../../images/products/product6.png'
 
 const Product = () => {
     return (
-        <div className="container">
-            <h2 className='mt-5'> Our Products</h2>
+        <div id="products" className="container">
+            <h2 className='mt-5 font-h4'> Our Products</h2>
+            <hr />
             <h1 className='font-h4'>The people SPA wellness behind us </h1>
 
             <div className="card-group d-flex justify-content-center my-5">
