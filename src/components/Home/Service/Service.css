@@ -1,0 +1,15 @@
+.service{
+    background-color: rgba(90, 90, 90, 0.26);
+    border-radius: 20px;
+
+}
+.service img{
+    width: 100%;
+    padding: 20px;
+    border-radius: 20px;
+    
+}
+
+.service p,h3 {
+    padding: 5px;
+}

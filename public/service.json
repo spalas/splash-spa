@@ -1,0 +1,44 @@
+[
+    {
+        "id": "a1",
+        "price": "$100",
+        "name": "Essential therapy spa",
+        "detail": "This is very Essential therapy spa style is very important your for your full body and your life if are taken this therapy we will be storng more better than before",
+        "photo": "https://i.ibb.co/mTy0dWL/therapy.png"
+    },
+    {
+        "id": "a2",
+        "price": "$150",
+        "name": "Super slim course",
+        "detail": "Super slim Course are make diet plain that you can make body perfect strong healthy life forever stay healthy always.",
+        "photo": "https://i.ibb.co/z53079R/slip.png"
+    },
+    {
+        "id": "a3",
+        "price": "$200",
+        "name": "Special Hair Design",
+        "detail": "Hair are make  you look nice and beautyful so keep you Hair always style and strong healthy hair it look you nice and good.We have all type of hair style. ",
+        "photo": "https://i.ibb.co/44BTDHF/hair.png"
+    },
+    {
+        "id": "a4",
+        "price": "$300",
+        "name": "Full Facial package",
+        "detail": "Face is main part your body so you must have beaultyful face forever just take your full facial package .",
+        "photo": "https://i.ibb.co/7kfm4wY/facial.png"
+    },
+    {
+        "id": "a5",
+        "price": "$250",
+        "name": "Full body Massage",
+        "detail": "Are are feeling boring not unhealthy? You can take our full body massage with resonable price .",
+        "photo": "https://i.ibb.co/T8CfXQt/massage.png"
+    },
+    {
+        "id": "a6",
+        "price": "$600",
+        "name": "Plastic Surgeon",
+        "detail": "Your feel angury with yourself when you see your face on mirrar.We can solve Your problem with plastic surgeon with good value and promise to stay you face clean .",
+        "photo": "https://i.ibb.co/JBymnCB/plastic.png"
+    }
+]
