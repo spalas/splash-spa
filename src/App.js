@@ -11,6 +11,8 @@ import Buying from './components/Buying/Buying';
 import Login from './components/Login/Login/Login';
 import Header from './components/Header/Header';
 import AuthProvider from './contexts/AuthProvider';
+import PrivateRoute from './components/Login/Login/PrivateRoute/PrivateRoute';
+import Footer from './components/Footer/Footer';
 
 
 function App() {
@@ -29,13 +31,14 @@ function App() {
             <Route path="/login">
               <Login></Login>
             </Route>
-            <Route path="/buying/:serviceId">
+            <PrivateRoute path="/buying/:serviceId">
               <Buying></Buying>
-            </Route>
+            </PrivateRoute>
             <Route path="*">
               <NotFound></NotFound>
             </Route>
           </Switch>
+          <Footer></Footer>
         </Router>
       </AuthProvider>
 
